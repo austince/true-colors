@@ -2,7 +2,7 @@
 Brings out the true (or what the computer thinks to be true) emotions from faces in video.
 
 <p align="center">
-<img src="https://i.vimeocdn.com/video/694086634_130x73.jpg" width="400"/>
+<a href="https://vimeo.com/264332798"><img src="https://i.vimeocdn.com/video/694086634_130x73.jpg" width="400"/> </a>
 </p>
 
 This is in an ugly state, so apologies. It serves only as a rudimentary proof of concept. Sorry I didn't have more time,
