@@ -1,0 +1,4 @@
+emotion,confidence,x,y,width,height,filename
+neutral,323.32904757372665,25,28,293,293,test_image.png
+disgust,316.3085388284359,26,25,294,294,test_image.jpg
+anger,256.7312415003694,26,25,294,294,test_image.jpg

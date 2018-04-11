@@ -1,0 +1,13 @@
+frames
+outframes
+.idea
+*-bw*
+!*-bw*-output*
+
+*.pyc
+*.class
+audio
+
+CKFaces
+dataset
+sorted_set
